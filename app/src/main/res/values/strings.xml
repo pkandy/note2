@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">note</string>
+    <string name="version">Version: AndroidTutorial_0.2</string>
+    <string name="about">It is Android Tutorial Apps</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="content">Content</string>
+    <string name="enter_content">Enter Content</string>
+
+</resources>
